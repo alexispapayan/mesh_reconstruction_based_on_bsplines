@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Domain overview}{2}
+\contentsline {section}{\numberline {2}subdivision algorithm}{2}
+\contentsline {subsection}{\numberline {2.1}Distance from trailing edge}{4}
+\contentsline {subsection}{\numberline {2.2}curvature factor}{5}
+\contentsline {subsection}{\numberline {2.3}Distribution of points selected for the construction of the physical mesh }{7}
+\contentsline {subsection}{\numberline {2.4}Parametric Domain}{9}
+\contentsline {section}{\numberline {3}Generating surface between bodies}{12}
